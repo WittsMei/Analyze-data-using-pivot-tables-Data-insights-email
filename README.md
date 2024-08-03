@@ -1,7 +1,7 @@
 # Analyze-data-using-pivot-tables-Data-insights-email
 
 
-[Pivot tables](https://docs.google.com/spreadsheets/d/1xkGf5C35h_pAdi-gTujS0cMGUk-x20vCrUKF8ZKnpo4/edit?gid=2078165725#gid=2078165725)
+### [Pivot tables](https://docs.google.com/spreadsheets/d/1xkGf5C35h_pAdi-gTujS0cMGUk-x20vCrUKF8ZKnpo4/edit?gid=2078165725#gid=2078165725)
 
 <img width="1031" alt="image" src="https://github.com/user-attachments/assets/e27b0f75-57e3-4915-991b-f45b4bdcc78d">
 
@@ -31,7 +31,7 @@
 
 
 
-[Data insights Email](https://docs.google.com/document/d/1_M-C0fWijXIoUSaDH9WKAYoCo5YxcDtTmb2ZcPyIWjM/edit#heading=h.s7whzddb2dwj)
+### [Data insights Email](https://docs.google.com/document/d/1_M-C0fWijXIoUSaDH9WKAYoCo5YxcDtTmb2ZcPyIWjM/edit#heading=h.s7whzddb2dwj)
 
 <img width="802" alt="image" src="https://github.com/user-attachments/assets/0d0e4d5d-eb74-462e-a047-f259104093a6">
 
