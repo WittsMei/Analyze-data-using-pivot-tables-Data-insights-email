@@ -12,7 +12,6 @@
 
 
 
-<img width="848" alt="image" src="https://github.com/user-attachments/assets/7251bf74-ba4b-4520-9d59-6bb12e29431d">
 
 
 ### [Pivot tables](https://docs.google.com/spreadsheets/d/1xkGf5C35h_pAdi-gTujS0cMGUk-x20vCrUKF8ZKnpo4/edit?gid=2078165725#gid=2078165725)
