@@ -1,6 +1,20 @@
 # Analyze-data-using-pivot-tables-Data-insights-email
 
 
+[Dataset](https://docs.google.com/spreadsheets/d/1_GNk4Nn0cfjVZYzHtVz5gX6acBxigXOnr0krLeZZBEA/edit?gid=1289986699#gid=1289986699)
+
+
+
+<img width="905" alt="image" src="https://github.com/user-attachments/assets/9570711f-6d00-4d58-a498-0b5059b74b4f">
+
+
+<img width="811" alt="image" src="https://github.com/user-attachments/assets/bae23cf1-ee59-4f29-9b7b-537aab809a08">
+
+
+
+<img width="848" alt="image" src="https://github.com/user-attachments/assets/7251bf74-ba4b-4520-9d59-6bb12e29431d">
+
+
 ### [Pivot tables](https://docs.google.com/spreadsheets/d/1xkGf5C35h_pAdi-gTujS0cMGUk-x20vCrUKF8ZKnpo4/edit?gid=2078165725#gid=2078165725)
 
 <img width="1031" alt="image" src="https://github.com/user-attachments/assets/e27b0f75-57e3-4915-991b-f45b4bdcc78d">
